@@ -4,4 +4,4 @@ Web application that finds the github profiles of other users and also displays 
 
 It is made using- HTML, CSS, JavaScript and Ajax.
 
-Live Link- https://taranum01.github.io/Github-Finder.github.io/
+Live Link- https://taranum01.github.io/Github-Finder/
